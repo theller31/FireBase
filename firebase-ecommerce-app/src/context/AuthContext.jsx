@@ -1,0 +1,1 @@
+// Dummy content for src/context/AuthContext.jsx

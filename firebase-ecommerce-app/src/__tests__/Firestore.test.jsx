@@ -1,0 +1,1 @@
+// Dummy content for src/__tests__/Firestore.test.jsx
